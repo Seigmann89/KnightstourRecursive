@@ -73,9 +73,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Oblig2_Algoritmer_SimenValleLarsen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,11 +160,12 @@
       <workItem from="1551352163793" duration="2385000" />
       <workItem from="1551355174425" duration="3745000" />
       <workItem from="1551365843241" duration="134000" />
+      <workItem from="1551365983344" duration="232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77661000" />
+    <option name="totallyTimeSpent" value="77893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,9 +178,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -188,13 +216,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/labyrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/labyrint.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
