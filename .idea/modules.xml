@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Oblig2_Algoritmer_SimenValleLarsen.iml" filepath="$PROJECT_DIR$/.idea/Oblig2_Algoritmer_SimenValleLarsen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oblig2_Algoritmer_SimenValleLarsen.iml" filepath="$PROJECT_DIR$/Oblig2_Algoritmer_SimenValleLarsen.iml" />
     </modules>
   </component>
